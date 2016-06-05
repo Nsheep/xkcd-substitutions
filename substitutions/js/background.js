@@ -1,5 +1,32 @@
 //Default replacements
 var default_replacements = [
+  //https://xkcd.com/1689/
+  ['may cat', 'my friend Catherine']
+  
+  //https://xkcd.com/1679/
+  ['gaffe', 'magic spell']
+  ['ancient', 'haunted']
+  ['star-studded', 'blood-soaked']
+  ['remains to be seen', 'will never be known']
+  ['silver bullet', 'way to kill werewolves']
+  ['subway system', 'tunnles I found']
+  ['surpassing', 'surprising \(but not to me\)']
+  ['war of words', 'interplanitary war']
+  ['tension', 'sexual tension']
+  ['cautiously optimistic', 'delusional']
+  ['doctor who', 'The Big Bang Theory']
+  ['win votes', 'find Pok\u00E9mon']
+  ['behind the headlines', 'beyond the grave']
+  ['email', 'poem']
+  ['facebook post', 'poem']
+  ['tweet', 'poem']
+  ['facebook ceo', 'this guy']
+  ['latest', 'final']
+  ['disrupt', 'destroy']
+  ['meeting', 'm\u00E9nage \u00E1 trois']
+  ['scientists', 'Channing Tatum and his friends']
+  ['you won\'t believe', 'I\'m really sad about']
+  
   //https://xkcd.com/1288/
   ['witnesses', 'these dudes I know'],
   ['witness', 'this dude I know'],
